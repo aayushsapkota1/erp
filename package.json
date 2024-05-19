@@ -3,9 +3,7 @@
   "version": "1.0.0",
   "main": "app.js",
   "scripts": {
-    "start": "nodemon app.js",
-    "dev": "nodemon app.js",
-    "production": "node app.js"
+    "start": "node server.js"
   },
   "author": "Quartz",
   "license": "ISC",
